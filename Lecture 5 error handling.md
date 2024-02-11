@@ -1,4 +1,8 @@
-- [ ] Show `npm i ndb`
+- [ ] Show `npm i ndb`\
+	- [ ] Buttons
+		- [ ] Resume = Continue until next breakpoint
+		- [ ] Step over a function call
+		- [ ] Step into function call
 	- [ ] Run script
 	- [ ] Show app -> router variable -> stack
 	- [ ] Show Global -> process variable
@@ -92,4 +96,12 @@ exports.addTour = catchAsync(async (req, res) => {
 });
 
 In actual code, catchAsync function has been transferred to utils/catchAsync.js
+```
+
+- Handling 404 errors
+```js
+if (!blogPost) {
+	// Return is important or else your code will try to send 2 responses
+	return next(new AppError("Cant find blogpost with given id: " + id, 404));
+}
 ```
