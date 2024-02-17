@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 6 Error Handling.md",
+                "file": "Lecture 7 User Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 6 Error Handling.md",
+                "file": "Lecture 7 User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 6 Error Handling.md",
+                "file": "Lecture 7 User Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 6 Error Handling.md"
+                "file": "Lecture 7 User Authentication.md"
               }
             }
           }
@@ -173,9 +173,12 @@
   },
   "active": "67603e476918b79b",
   "lastOpenFiles": [
+    "diagram.png",
+    "Pasted image 20240217184925.png",
+    "Pasted image 20240217183610.png",
     "Lecture 5 error handling.md",
+    "Lecture 7 User Authentication.md",
     "Lecture 6 Error Handling.md",
-    "Lecture 7 API features.md",
     "Welcome.md",
     "Pasted image 20240210132700.png"
   ]

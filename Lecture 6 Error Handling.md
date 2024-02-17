@@ -70,7 +70,8 @@ const handlerDuplicateFieldsDB = (err) => {
   return new AppError(message, 400);
 };
 ```
-	- add this line too in distinguisher function
+
+- Add this line too in distinguisher function
 ```js
 if (err.code === 11000) error = handlerDuplicateFieldsDB(error);
 ```
@@ -79,7 +80,8 @@ if (err.code === 11000) error = handlerDuplicateFieldsDB(error);
 ```js
 if (err.name === 'ValidationError') error = handleValidationDB(error);
 ```
-	- handler function
+
+- Handler
 ```js
 const handleValidationDB = (err) => {
    const errors = Object.values(err.errors).map((el) => el.message);
