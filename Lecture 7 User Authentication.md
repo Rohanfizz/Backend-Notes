@@ -79,11 +79,11 @@ userSchema.pre('save', async function (next) {
 
 - [ ] JWT
 	- [ ] JSON web token helps maintain the law of restful APIs which says that the server should be stateless.
-		Its like a passport which it has to show in order to access a proteceted resource.
+		Its like a passport which it has to show in order to access a protected resource.
 		It is made up of 3 parts
 		1. Header
 		2. Payload
-		3. Verify Signature.
+		3. Signature.
 
   
 

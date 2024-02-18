@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Lecture 8 User Authorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "113e4fff3adc1a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Lecture 7 User Authentication.md",
                 "mode": "source",
                 "source": false
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 7 User Authentication.md",
+                "file": "Lecture 8 User Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 7 User Authentication.md",
+                "file": "Lecture 8 User Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 7 User Authentication.md"
+                "file": "Lecture 8 User Authorization.md"
               }
             }
           }
@@ -173,12 +185,13 @@
   },
   "active": "67603e476918b79b",
   "lastOpenFiles": [
+    "Lecture 7 User Authentication.md",
+    "Lecture 8 User Authorization.md",
+    "Lecture 6 Error Handling.md",
+    "Lecture 5 error handling.md",
     "diagram.png",
     "Pasted image 20240217184925.png",
     "Pasted image 20240217183610.png",
-    "Lecture 5 error handling.md",
-    "Lecture 7 User Authentication.md",
-    "Lecture 6 Error Handling.md",
     "Welcome.md",
     "Pasted image 20240210132700.png"
   ]
